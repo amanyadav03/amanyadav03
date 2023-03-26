@@ -1,6 +1,6 @@
 <h1 align="center">Hello There, I'm Aman Yadav</h1>
 <h3 align="center">A passionate frontend developer from U.P. India</h3>
-<img align="right" alt="coding" width="400" scr="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=">
+<img align="right" alt="coding" width="400" scr="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47d7imrgy8gr0zaes2rbniie2qk923bzv5qfxfmfvo&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanyadav03&label=Profile%20views&color=0e75b6&style=flat" alt="amanyadav03" /> </p>
 
