@@ -1,6 +1,6 @@
 <h1 align="center">Hello There, I'm Aman Yadav</h1>
 <h3 align="center">A passionate frontend developer from U.P. India</h3>
-<img align="right" alt="coding" width="400" scr="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" width="400" scr="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanyadav03&label=Profile%20views&color=0e75b6&style=flat" alt="amanyadav03" /> </p>
 
