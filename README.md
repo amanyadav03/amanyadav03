@@ -6,8 +6,7 @@
 , I'm Aman Yadav</h1>
 <h3 align="center">A Young and passionate Front-End Developer</h3>
 
-
-
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="max-width: 100%;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanyadav03&label=Profile%20views&color=0e75b6&style=flat" alt="amanyadav03" /> </p>
 
 <p align="left"> <a href="https://twitter.com/amanyadav_3" target="blank"><img src="https://img.shields.io/twitter/follow/amanyadav_3?logo=twitter&style=for-the-badge" alt="amanyadav_3" /></a> </p>
