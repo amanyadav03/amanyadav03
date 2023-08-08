@@ -6,7 +6,7 @@
 , I'm Aman Yadav</h1>
 <h3 align="center">A Young and passionate Front-End Developer</h3>
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="max-width: 100%;">
+<img height="150" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="max-width: 100%;">
 
 <p align="center">
   
