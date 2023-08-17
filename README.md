@@ -18,7 +18,7 @@
  🌱 I’m currently learning **react.js**
 
  📫 How to reach me **aman310k@gmail.com**
- <p>Check out my Resume : <a href="https://drive.google.com/file/d/17z0OOwylTHmWsH0etRow3G99U68-Q3Wq/view?usp=sharing">Click here</a> <img src="https://media.tenor.com/_Tc06zqJ9nIAAAAi/look-arrow.gif" height="10px"/></p>
+ <p>Check out my Resume : <a href="https://drive.google.com/file/d/16SVxn-XTOWtOrfzvo7ri0RAgPHCmzzaU/view?usp=sharing">Click here</a> <img src="https://media.tenor.com/_Tc06zqJ9nIAAAAi/look-arrow.gif" height="10px"/></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
