@@ -1,32 +1,63 @@
+# Aman Yadav
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<h1 align="center">Hii There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-, I'm Aman Yadav</h1>
-<h3 align="center">A Young and passionate Front-End Developer</h3>
+**Software Engineer | Frontend & Full-Stack (JavaScript, React, Node.js)**
 
-<img height="150" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="max-width: 100%;">
+I am a software engineer with hands-on experience building production-ready web applications using modern JavaScript stacks. My focus is on writing maintainable, scalable code and understanding systems beyond just UI—APIs, state management, performance, and deployment.
 
- 🌱 I’m currently learning **react.js**
+---
 
- 📫 How to reach me **aman310k@gmail.com**
- <p>Check out my Resume : <a href="https://drive.google.com/file/d/1OhTi4hRgjSpld1rLEZ7f2MZL5FKvwGEu/view?usp=sharing">Click here</a> <img src="https://media.tenor.com/_Tc06zqJ9nIAAAAi/look-arrow.gif" height="10px"/></p>
+## Current Focus
+- React & React Native (architecture, performance, patterns)
+- Backend APIs with Node.js & MongoDB
+- Data Structures & Algorithms (JavaScript)
+- Real-world system design and automation tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/amanyadav_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amanyadav_3" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aman-yadav-developer03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-yadav-developer03" height="30" width="40" /></a>
-<a href="https://instagram.com/amanyadav_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amanyadav_3" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Technical Skills
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=amanyadav03&show_icons=true&locale=en&layout=compact" alt="amanyadav03" height=180px /></p>
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanyadav03&show_icons=true&locale=en" alt="amanyadav03" /></p>
+**Frontend**
+- React.js, React Native
+- HTML5, CSS3, JavaScript (ES6+)
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amanyadav03&" alt="amanyadav03" /></p>
+**Backend**
+- Node.js, Express
+- Spring Boot
+- REST APIs
+- MongoDB, SQL
+
+**Languages**
+- JavaScript, Python, Java, C++, C
+
+**Tools & Platforms**
+- Git & GitHub
+- Docker
+- AWS
+- Postman, DBeaver  
+- VS Code  
+- Linux basics  
+
+---
+
+## Experience
+- **Software Development Engineer** — Brixo Solutions Pvt. Ltd.  
+- **Software Developer Intern** — Brixo Solutions Pvt. Ltd.  
+- **Software Developer Intern** — Supervisor Training Centre  
+
+
+---
+
+## Projects & Interests
+- Automated Job Alerts & Apply Bot  
+- Portfolio Website  
+- React Native apps (Expense Tracker, Travel Buddy, Digital Doppelgänger)  
+- Open-source contributions (actively exploring)
+
+---
+
+## Contact
+- **Email:** aman310k@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/amanyadav3/ 
+- **GitHub:** https://github.com/amanyadav03  
+
+---
